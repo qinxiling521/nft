@@ -1,0 +1,6 @@
+{
+  "$schema": "https://conventions.0xcert.org/86-base-asset-schema.json",
+  "name": "城堡",
+  "description": "又一张照片",
+  "image": "https://gateway.pinata.cloud/ipfs/QmRNqRBdN6SmrUnZTCsYpqq3o75rLRE6n7UEAPXYFMdoHE"
+}
